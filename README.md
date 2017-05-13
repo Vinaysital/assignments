@@ -4,3 +4,4 @@ This repository contains my assignments
 
 [Assignment 1](https://github.com/Vinaysital/assignments/blob/master/Assignment_week_2%20Vinay%20Sital.ipynb)<br>
 [Assignment 2](https://github.com/Vinaysital/assignments/blob/master/Assignment_week_4%2B%25283%2529.ipynb)
+[Assignment 5](https://github.com/Vinaysital/assignments/blob/master/assignment5%20(1).ipynb)
